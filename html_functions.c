@@ -56,8 +56,8 @@ void create_html_footer (FILE *html_file)
 {
   fprintf (html_file, "\n\
   <br /><br />\n\
-  <a href=\"index.html\">Back Home</a><br />\n\
-  <a href=\"https://github.com/andy5995/mhwkb\">About</a>\n\
+  <a align='center' href=\"index.html\">Back Home</a><br />\n\
+  <a align='center' href=\"https://github.com/andy5995/mhwkb\">About</a>\n\
   </body>\n\
 </html>\n");
 }
